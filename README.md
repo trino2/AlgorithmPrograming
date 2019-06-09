@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-                         Algorithms In C++
+                              Algorithms In C++
 --------------------------------------------------------------------------------
 
 Sample of my coding in C++ of Algorithms based in computer Sciense Algorithms. 
